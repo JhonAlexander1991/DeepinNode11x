@@ -1,3 +1,3 @@
-**setup** is deployed to <https://deb.nodesource.com/setup>
+**setup** is deployed to <https://github.com/JhonAlexander1991/DeepinNode11x.git/setup>
 
-**setup_dev** is deployed to <https://deb.nodesource.com/setup_dev>
+**setup_dev** is deployed to <https://github.com/JhonAlexander1991/DeepinNode11x.git/setup_dev>
